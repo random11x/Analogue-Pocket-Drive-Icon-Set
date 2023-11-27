@@ -13,7 +13,8 @@ Upon inserting the SD card into your computer, the drive icon should now display
 1. Download an icon from the [Mac Icons folder](https://github.com/random11x/Analogue-Pocket-Drive-Icon-Set/tree/main/Mac%20Icons).
 2. In finder, right click on the drive for your SD card and choose `Get Info` to open the properties dialog.
 3. Drag the icon file onto the icon of the drive in the top left corner of the properties window, this will update the icon for your drive.
-![ChangeSDIconMac](https://github.com/random11x/Analogue-Pocket-Drive-Icon-Set/assets/137963515/dd4607da-61ca-4104-97a5-9928ff244b28)
+
+   ![ChangeSDIconMac](https://github.com/random11x/Analogue-Pocket-Drive-Icon-Set/assets/137963515/dd4607da-61ca-4104-97a5-9928ff244b28)
 
 Alternatively you can put the `.icns` file in the root of your SD card and rename it to `.VolumeIcon.icns`. This should work however you may need to restart your computer to see the new icon. If you are having issues try the `Get Info` approach.
 
