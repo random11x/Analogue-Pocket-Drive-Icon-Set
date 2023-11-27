@@ -1,0 +1,42 @@
+[autorun]
+icon=Analogue_Pocket_Ico_Lib.icl,0 ; <- change the index (the number after the comma) to the color you want from the list below
+label=Analogue Pocket
+
+; Index list:
+; 0:  Black
+; 1:  Black 3D
+; 2:  Clear Black
+; 3:  Clear Black 3D
+; 4:  White
+; 5:  White 3D
+; 6:  Clear White
+; 7:  Clear White 3D
+; 8:  Silver
+; 9:  Silver 3D
+; 10: Indigo
+; 11: Indigo 3D
+; 12: Clear Purple
+; 13: Clear Purple 3D
+; 14: Blue
+; 15: Blue 3D
+; 16: Clear Blue
+; 17: Clear Blue 3D
+; 18: Green
+; 19: Green 3D
+; 20: Clear Green
+; 21: Clear Green 3D
+; 22: Yellow
+; 23: Yellow 3D
+; 24: Orange
+; 25: Orange 3D
+; 26: Clear Orange
+; 27: Clear Orange 3D
+; 28: Red
+; 29: Red 3D
+; 30: Clear Red
+; 31: Clear Red 3D
+; 32: Pink
+; 33: Pink 3D
+; 34: Glow Lights On
+; 35: Glow Lights On 3D
+; 36: Glow Lights Off
