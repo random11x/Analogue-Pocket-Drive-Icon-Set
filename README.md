@@ -4,7 +4,7 @@ This set includes icons for your Analogue Pocket, allowing you to change the ico
 ## Windows Instructions
 1. Download the [Icon Library](https://github.com/random11x/Analogue-Pocket-Drive-Icon-Set/blob/main/Analogue_Pocket_Ico_Lib.icl) which contains all the icons in one file. (Or download an individual ico file from the Windows Icons folder)
 2. Download the [autorun.inf file](https://github.com/random11x/Analogue-Pocket-Drive-Icon-Set/blob/main/autorun.inf).
-3. Edit the `autorun.inf` file and modify the second line to match your preferred icon color/design. For instance: `icon=Analogue_Pocket_Ico_Lib.icl,15` represents the Blue 3D icon. (If you downloaded an individual ico file just put the ico file name instead, for instance: `icon=Red.ico`)
+3. Edit the `autorun.inf` file and modify the second line to match your preferred icon color/design. For instance: `icon=Analogue_Pocket_Ico_Lib.icl,17` represents the Blue 3D icon. (If you downloaded an individual ico file just put the ico file name instead, for instance: `icon=Red.ico`)
 4. Place both downloaded files in the root directory of your SD card.
 
 Upon inserting the SD card into your computer, the drive icon should now display an image of the Analogue Pocket.
@@ -19,5 +19,4 @@ Upon inserting the SD card into your computer, the drive icon should now display
 Alternatively you can put the `.icns` file in the root of your SD card and rename it to `.VolumeIcon.icns`. This should work however you may need to restart your computer to see the new icon. If you are having issues try the `Get Info` approach.
 
 ## Preview
-![Preview](https://github.com/random11x/Analogue-Pocket-Drive-Icon-Set/assets/137963515/f20dcb01-b06b-48ad-87bc-b479fd6f6007)
-
+![Preview](https://github.com/random11x/Analogue-Pocket-Drive-Icon-Set/assets/137963515/77a7a41b-26d4-47e9-a6cc-39de32e4bfa0)
